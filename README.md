@@ -27,4 +27,4 @@ Webserv, written in C++, involves the comprehensive design of a custom web serve
 Contributions are encouraged! If you have ideas for improvements, additional features, or encounter any issues, feel free to open an issue or submit a pull request.
 
 ## Subject
-
+https://github.com/khallal42/webserv/blob/main/en.subject.pdf
