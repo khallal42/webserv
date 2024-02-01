@@ -18,7 +18,7 @@ Webserv delves into the complexities of web server development, tasking students
 1. Clone the repository: `git@github.com:khallal42/webserv.git`
 2. Navigate to the project directory: `cd webserv`
 3. Build the project: `make`
-4. Run the server: `./webserv [configuration_file]`
+4. Run the server: `./webserv [configuration_file] (configue file is optionel)`
 
 ## Implementation
 Webserv, written in C++, involves the comprehensive design of a custom web server. It encompasses various aspects of web server technologies, including adeptly handling HTTP requests, dynamically generating responses, ensuring secure communication with clients, and supporting various HTTP methods. The project serves as a profound exploration of web, server-side scripting, session management, and versatile request processing.
